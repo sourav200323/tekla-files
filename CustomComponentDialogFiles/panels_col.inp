@@ -1,0 +1,14 @@
+page("TeklaStructures","")
+{
+   joint(1, "panels_col")
+   {
+       tab_page("", " Parameters 1 ", 1)
+       {
+           parameter("Distnace From Top", "P1", distance, number, 1)
+           parameter("Distnace From Btm", "P2", distance, number, 2)
+           parameter("Gap", "P3", distance, number, 3)
+           parameter("Horiz Spacing", "P4", distance, number, 4)
+           parameter("Clearance", "P5", distance, number, 5)
+       }
+   }
+}

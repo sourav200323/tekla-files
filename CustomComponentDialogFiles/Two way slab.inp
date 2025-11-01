@@ -1,0 +1,42 @@
+page("TeklaStructures","")
+{
+   detail(1, "Two way slab")
+   {
+       helpurl("Twowayslab.chm::/1.htm")
+
+       tab_page("", " Plan View Details ", 1)
+       {
+          picture("complete1", 200,200,50,50)
+          parameter("", "P25", distance_list, text,590,289,70)
+          parameter("", "P33", YesNo, number,620,256,70)
+          parameter("", "P21_size", rebar_size, text,520,155,30)
+          parameter("", "P37", YesNo, number, 80,280,70)
+          parameter("", "P2", distance_list, text,310,108,70)
+          parameter("", "P1", distance, number, 155,110,70)
+          parameter("", "P26", distance, number,85,175,70)
+          parameter("", "P13", YesNo, number, 405,65,70)
+          parameter("", "P8", YesNo, number,300,440,70)
+          parameter("", "P30_size", rebar_size, text,405,440,30)
+       }
+       
+      tab_page("", " Section Details ", 2)  
+       {
+        
+        picture("complete2", 200,200,50,50)
+
+          parameter("", "P10", distance, number, 525,114,60)
+          parameter("", "P9", distance, number,80,128,60)
+          parameter("", "P11", distance, number,365,172,60)
+          parameter("", "P14", distance, number,250,175,60 )
+          parameter("", "P39", distance, number,230,397,60) 
+           
+           parameter("Cover From Edge for Diren 2", "P26", distance, number, 11)
+           parameter("Rebar Size for Diren 2", "P30_size", rebar_size, text, 12)
+          
+           parameter("", "P35", distance, number,375,397,60)
+           
+          
+      }
+
+   }
+}

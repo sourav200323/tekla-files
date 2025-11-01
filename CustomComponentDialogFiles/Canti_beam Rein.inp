@@ -1,0 +1,48 @@
+page("TeklaStructures", "")
+{
+    joint(1, "Canti_beam Rein")
+    {
+        helpurl("Canti_beamrein.chm::/1.htm")
+        tab_page("", "Picture", 1)
+        {
+            attribute("", "Cover", label, "%s", none, none, "0", "0", 344, 11)
+            parameter("", "P2", distance, number, 438, 11, 100)
+            parameter("", "P24", distance, number, 129, 21, 75)
+            attribute("", "Extend Bar", label, "%s", none, none, "0", "0", 18, 24)
+            parameter("", "P22", YesNo, number, 130, 54, 75)
+            picture("IN_CIP_Canti_rein1", 607, 244, 122, 60)
+            parameter("", "P12", distance, number, 441, 71, 80)
+            parameter("", "D56", distance, number, 736, 72, 80)
+            parameter("", "P26", distance, number, 998, 115, 75)
+            parameter("", "P25", distance, number, 100, 124, 75)
+            parameter("", "P15", distance, number, 93, 184, 80)
+            parameter("", "P11", distance, number, 944, 191, 100)
+            parameter("", "P7", distance_list, text, 634, 224, 100)
+            parameter("", "P14", distance, number, 273, 243, 80)
+            attribute("", "Distance from column face", label, "%s", none, none, "0", "0", 380, 247)
+            parameter("", "P21", YesNo, number, 128, 260, 75)
+            attribute("", "Extend Bar", label, "%s", none, none, "0", "0", 22, 262)
+            parameter("", "P23", distance, number, 128, 292, 75)
+        }
+        tab_page("", "Attributes", 2)
+        {
+            attribute("", "No", label, "%s", none, none, "0", "0", 441, 10)
+            parameter("", "P6", integer, number, 550, 10, 50)
+            picture("IN_CIP_Canti_rein2", 248, 313, 275, 47)
+            attribute("", "Size", label, "%s", none, none, "0", "0", 438, 50)
+            parameter("", "P1_size", rebar_size, text, 550, 50, 50)
+            parameter("", "P1_grade", rebar_size, text, 543, 89, 100)
+            attribute("", "Grade", label, "%s", none, none, "0", "0", 441, 92)
+            attribute("", "Size", label, "%s", none, none, "0", "0", 568, 148)
+            parameter("", "P4_size", rebar_size, text, 650, 149, 50)
+            parameter("", "P4_grade", rebar_grade, text, 652, 190, 100)
+            attribute("", "Grade", label, "%s", none, none, "0", "0", 568, 192)
+            parameter("", "P5", integer, number, 550, 355, 50)
+            attribute("", "No", label, "%s", none, none, "0", "0", 441, 365)
+            parameter("", "P3_size", rebar_size, text, 550, 400, 50)
+            attribute("", "Size", label, "%s", none, none, "0", "0", 441, 405)
+            attribute("", "Grade", label, "%s", none, none, "0", "0", 443, 444)
+            parameter("", "P3_grade", rebar_grade, text, 549, 445, 100)
+        }
+    }
+}

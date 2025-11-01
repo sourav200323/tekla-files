@@ -1,0 +1,12 @@
+Items_attributes.get_menu "CA05075"
+Items_attributes.name_enable 0
+Items_attributes.ThirdHandle 0
+Items_attributes.AtDepthValue 0.000000
+Items_attributes.AtDepth 0
+Items_attributes.RotationValue 0.000000
+Items_attributes.Rotation 2
+Items_attributes.OnPlaneValue 0.000000
+Items_attributes.OnPlane 0
+Items_attributes.ANCON_TYPE 13
+Items_attributes.REID_TYPE 13
+Items_attributes.TYPE 1

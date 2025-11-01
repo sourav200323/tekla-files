@@ -1,0 +1,23 @@
+page("TeklaStructures", "")
+{
+    joint(1, "Top Nib Bars")
+    {
+        tab_page("", "Top Nib Bars", 1)
+        {
+            picture("IND_PC_NIB_TOP_BARS", 0, 0, 48, 6)
+            parameter("", "P7", distance, number, 57, 31, 60)
+            attribute("", "Bar Size", label, "%s", none, none, "0", "0", 371, 36)
+            parameter("", "P4_size", rebar_stirrup, text, 371, 66, 60)
+            parameter("", "D19", distance, number, 233, 80, 60)
+            parameter("", "P4_grade", rebar_grade, text, 371, 106, 100)
+            parameter("", "D16", distance, number, 16, 156, 60)
+            parameter("", "P1", distance, number, 251, 216, 60)
+            parameter("", "P2", distance, number, 221, 266, 60)
+            attribute("", "Main Bar Size", label, "%s", none, none, "0", "0", 211, 346)
+            attribute("", "Spacing Main Bar", label, "%s", none, none, "0", "0", 374, 346)
+            parameter("", "P3_size", rebar_stirrup, text, 221, 376, 60)
+            parameter("", "P8", distance, number, 374, 376, 60)
+            parameter("", "P3_grade", rebar_grade, text, 221, 416, 100)
+        }
+    }
+}

@@ -1,0 +1,10 @@
+EB_PVL60B_attributes.saveas_file "asdf"
+EB_PVL60B_attributes.get_menu "< ExternalDesign >"
+EB_PVL60B_attributes.name_enable 1
+EB_PVL60B_attributes.ThirdHandle 0
+EB_PVL60B_attributes.AtDepthValue 0.000000
+EB_PVL60B_attributes.AtDepth 0
+EB_PVL60B_attributes.RotationValue -0.000000
+EB_PVL60B_attributes.Rotation 1
+EB_PVL60B_attributes.OnPlaneValue 0.000000
+EB_PVL60B_attributes.OnPlane 0

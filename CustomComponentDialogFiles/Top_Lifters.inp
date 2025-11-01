@@ -1,0 +1,26 @@
+page("TeklaStructures","")
+{
+   detail(1, "Top_Lifters")
+   {
+       tab_page("", " Parameters ", 1)
+       {
+           picture("TopLifters", 400,280)
+           parameter("", "P1", distance, number, 340,0,80)
+           parameter("Vertical Offset Lifter 1", "P2", distance, number, 16)
+           parameter("Vertical Offset Lifter 2", "P3", distance, number, 17)
+	   attribute ("P4", "Number Of Lifters", option, "%s", none, none, "0.0", "0.0",14)
+	{
+	   value ("2 Lifters", 1)
+	   value ("4 Lifters", 0)
+        }
+           parameter("Vertical Offset Lifter 3", "P5", distance, number, 18)
+           parameter("", "P6", distance, number, 200,0,80)
+           parameter("Vertical Offset Lifter 4", "P8", distance, number, 19)
+	   attribute ("P9", "Lifter Size", option, "%s", none, none, "0.0", "0.0",15)
+	{
+	   value ("5T Lifters", 1)
+	   value ("10T Lifters", 0)
+        }
+       }
+   }
+}

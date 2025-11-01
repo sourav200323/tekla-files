@@ -1,0 +1,15 @@
+page("TeklaStructures","")
+{
+   macro(1, "EB_CDC200")
+   {
+       tab_page("", " Parameters 1 ", 1)
+       {
+           parameter("albl_Name", "P1a", string, text, 1)
+           parameter("j_Product_description", "P2a", string, text, 2)
+           parameter("j_Product_code", "P3a", string, text, 3)
+           parameter("albl_Start_number", "P4a", integer, number, 4)
+           parameter("j_Numbering_prefix", "P6a", string, text, 5)
+           parameter("albl_Finish", "P5a", string, text, 6)
+       }
+   }
+}

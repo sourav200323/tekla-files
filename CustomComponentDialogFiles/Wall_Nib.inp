@@ -1,0 +1,66 @@
+page("TeklaStructures", "")
+{
+    joint(1, "Wall_Nib")
+    {
+        tab_page("", "Top notch", 1)
+        {
+            attribute("", "Type", label, "%s", none, none, "0", "0", 101, 45)
+            attribute("P7", "", option, "%s", none, none, "0.0", "0.0", 200, 45, 135)
+            {
+                value("1", 1)
+                value("2", 0)
+                value("3", 0)
+                value("4", 0)
+            }
+            attribute("", "Create Nib", label, "%s", none, none, "0", "0", 718, 45)
+            parameter("", "P35", YesNo, number, 864, 45, 80)
+            picture("IND_PC_WALLNIB", 544, 395, 197, 128)
+            parameter("", "V1", distance, number, 163, 203, 67)
+            parameter("", "H1", distance, number, 450, 229, 67)
+            parameter("", "V2", distance, number, 162, 235, 67)
+            parameter("", "D40", distance, number, 753, 242, 50)
+            parameter("", "P29", distance, number, 1102, 242, 50)
+            parameter("", "D40", distance, number, 753, 264, 50)
+            parameter("", "V3", distance, number, 159, 275, 67)
+            parameter("", "P2", distance, number, 650, 283, 67)
+            parameter("", "H2", distance, number, 397, 323, 67)
+            parameter("", "P32", distance, number, 816, 371, 50)
+            parameter("", "H3", distance, number, 293, 391, 67)
+            parameter("", "P3", distance, number, 520, 424, 67)
+            parameter("", "P30", distance, number, 766, 427, 50)
+            parameter("", "P10", distance, number, 521, 478, 67)
+            parameter("", "P31", distance, number, 866, 500, 50)
+            parameter("", "P33", distance, number, 957, 500, 50)
+            parameter("", "P34", distance, number, 1041, 500, 50)
+        }
+        tab_page("", "Reinforcement", 2)
+        {
+            attribute("P9", "", option, "%s", none, none, "0.0", "0.0", 213, 20, 135)
+            {
+                value("No", 0)
+                value("Yes", 1)
+            }
+            attribute("", "Create Rebars", label, "%s", none, none, "0", "0", 36, 30)
+            attribute("", "Grade", label, "%s", none, none, "0", "0", 51, 75)
+            attribute("", "Size", label, "%s", none, none, "0", "0", 220, 75)
+            attribute("", "Name", label, "%s", none, none, "0", "0", 370, 75)
+            attribute("", "Prefix", label, "%s", none, none, "0", "0", 560, 75)
+            attribute("", "Start.No", label, "%s", none, none, "0", "0", 670, 75)
+            attribute("", "Class", label, "%s", none, none, "0", "0", 800, 75)
+            parameter("", "P12_grade", rebar_grade, text, 44, 110, 108)
+            parameter("", "P12_size", rebar_stirrup, text, 212, 110, 67)
+            parameter("", "P14", string, text, 367, 110, 135)
+            parameter("", "P20", string, text, 547, 110, 67)
+            parameter("", "P21", integer, number, 663, 110, 67)
+            parameter("", "P19", integer, number, 785, 110, 67)
+            picture("Wall_rein", 812, 299, 151, 205)
+            parameter("", "P18", distance, number, 347, 205, 108)
+            parameter("", "P16", distance, number, 50, 269, 94)
+            parameter("", "P23", distance, number, 363, 343, 40)
+            parameter("", "P15", distance, number, 86, 391, 108)
+            parameter("", "P22", distance, number, 467, 412, 50)
+            parameter("", "P13", distance, number, 667, 418, 108)
+            attribute("", "Rebar Spacing", label, "%s", none, none, "0", "0", 677, 454)
+        }
+    }
+}

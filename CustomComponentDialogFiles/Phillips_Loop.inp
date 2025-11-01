@@ -1,0 +1,16 @@
+page("TeklaStructures","")
+{
+   macro(1, "Phillips_Loop")
+   {
+       tab_page("", " Parameters 1 ", 1)
+       {
+           parameter("Type", "P1", string, text, 1)
+           parameter("Length of box L1", "P2", distance, number, 2)
+           parameter("Anchoring length L2", "P3", distance, number, 3)
+           parameter("Width of box B", "P4", distance, number, 4)
+           parameter("Depth of box H", "P5", distance, number, 5)
+           parameter("Length of loop SL", "P6", distance, number, 6)
+           parameter("Wire diameter", "P7", distance, number, 7)
+       }
+   }
+}

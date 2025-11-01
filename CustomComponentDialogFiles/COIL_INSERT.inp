@@ -1,0 +1,11 @@
+page("TeklaStructures", "")
+{
+    macro(1, "COIL_INSERT")
+    {
+        tab_page("", " Parameters 1 ", 1)
+        {
+            attribute("", "Insert Reference_a", label, "%s", none, none, "0", "0", 24, 0)
+            parameter("", "P1", string, text, 371, 0, 159)
+        }
+    }
+}

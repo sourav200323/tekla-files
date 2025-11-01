@@ -1,0 +1,12 @@
+Bracing Anchor_attributes.get_menu "M20"
+Bracing Anchor_attributes.name_enable 0
+Bracing Anchor_attributes.ThirdHandle 0
+Bracing Anchor_attributes.AtDepthValue 0.000000
+Bracing Anchor_attributes.AtDepth 0
+Bracing Anchor_attributes.RotationValue 0.000000
+Bracing Anchor_attributes.Rotation 2
+Bracing Anchor_attributes.OnPlaneValue 0.000000
+Bracing Anchor_attributes.OnPlane 0
+Bracing Anchor_attributes.P3 "M24 - 40"
+Bracing Anchor_attributes.D1 40.000000
+Bracing Anchor_attributes.P1 60

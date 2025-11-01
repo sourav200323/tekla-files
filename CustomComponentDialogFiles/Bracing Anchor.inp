@@ -1,0 +1,12 @@
+page("TeklaStructures","")
+{
+   macro(1, "Bracing Anchor")
+   {
+       tab_page("", " Parameters 1 ", 1)
+       {
+           parameter("Size", "P1", integer, number, 1)
+           parameter("Length", "D1", distance, number, 2)
+           parameter("Name", "P3", string, text, 3)
+       }
+   }
+}

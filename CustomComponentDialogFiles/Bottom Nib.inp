@@ -1,0 +1,24 @@
+page("TeklaStructures", "")
+{
+    joint(1, "Bottom Nib")
+    {
+        tab_page("", "Bottom Nib Bars", 1)
+        {
+            attribute("", "Bar Diameter", label, "%s", none, none, "0", "0", 250, 110)
+            parameter("", "P1_size", rebar_stirrup, text, 370, 110, 60)
+            attribute("", "Bar Diameter", label, "%s", none, none, "0", "0", 150, 570)
+            parameter("", "P2_size", rebar_size, text, 275, 570, 60)
+            attribute("", "Grade", label, "%s", none, none, "0", "0", 250, 150)
+            parameter("", "P1_grade", rebar_grade, text, 370, 150, 80)
+            attribute("", "Grade.", label, "%s", none, none, "0", "0", 369, 570)
+            parameter("", "P2_grade", rebar_grade, text, 451, 570, 100)
+            attribute("", "Cover", label, "%s", none, none, "0", "0", 250, 430)
+            parameter("", "P3", distance, number, 258, 217, 60)
+            parameter("", "P5", distance, number, 330, 430, 80)
+            attribute("", "Spacing Between Bars", label, "%s", none, none, "0", "0", 250, 280)
+            parameter("", "P6", distance, number, 280, 310, 100)
+            parameter("", "D9", distance, number, 32, 270, 100)
+            picture("IND_PC_NIB_BOT_BARS", 0, 0, 21, 9)
+        }
+    }
+}

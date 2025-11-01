@@ -1,0 +1,31 @@
+page("TeklaStructures", "")
+{
+    joint(1, "Beam Top Bar")
+    {
+        tab_page("", "Beam Top Bar", 1)
+        {
+            attribute("", "Number of bars", label, "%s", none, none, "0", "0", 680, 21)
+            attribute("", "Rebar Size", label, "%s", none, none, "0", "0", 50, 25)
+            parameter("", "P5_size", rebar_size, text, 250, 25, 60)
+            parameter("", "P3", integer, number, 700, 50, 60)
+            attribute("", "Rebar Grade", label, "%s", none, none, "0", "0", 50, 65)
+            parameter("", "P5_grade", rebar_grade, text, 250, 65, 60)
+            picture("IND_PC_Beam_Top_ Bars", 0, 0, 564, 76)
+            attribute("", "Rebar bending radius", label, "%s", none, none, "0", "0", 50, 105)
+            parameter("", "P5_radius", rebar_radius, text, 250, 105, 60)
+            parameter("", "P13", distance, number, 236, 168, 80)
+            picture("IND_PC_Beam Top Bars1", 0, 0, 141, 177)
+            parameter("", "P2", integer, number, 505, 180, 60)
+            attribute("", "Number of Bars", label, "%s", none, none, "0", "0", 630, 230)
+            attribute("", "Spacing", label, "%s", none, none, "0", "0", 805, 230)
+            parameter("", "P7", integer, number, 400, 248, 60)
+            parameter("", "P8", distance, number, 150, 253, 60)
+            parameter("", "P4", integer, number, 660, 260, 60)
+            parameter("", "P1", integer, number, 805, 260, 60)
+            attribute("", "Bending Angle", label, "%s", none, none, "0", "0", 381, 281)
+            parameter("", "P10", distance, number, 150, 358, 60)
+            parameter("", "P6", distance, number, 190, 505, 60)
+            parameter("", "P12", distance, number, 400, 505, 60)
+        }
+    }
+}

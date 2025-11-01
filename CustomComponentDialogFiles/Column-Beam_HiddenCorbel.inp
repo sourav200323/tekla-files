@@ -1,0 +1,21 @@
+page("TeklaStructures", "")
+{
+    joint(1, "Column-Beam_HiddenCorbel")
+    {
+        tab_page("", " Parameters 1 ", 1)
+        {
+            parameter("", "P1", distance, number, 270, 190, 70)
+            attribute("", "C2", label, "%s", none, none, "0", "0", 325, 290)
+            parameter("", "P2c_name", ComponentName, text, 325, 320, 160)
+            parameter("", "P2c_attrfile", ComponentAttributeFile, text, 325, 350, 160)
+            attribute("", "C1", label, "%s", none, none, "0", "0", 70, 290)
+            parameter("", "P4c_name", ComponentName, text, 70, 320, 160)
+            parameter("", "P4c_attrfile", ComponentAttributeFile, text, 70, 350, 160)
+            parameter("", "D1", distance, number, 380, 170, 70)
+            parameter("", "D6", distance, number, 500, 460, 80)
+            parameter("", "D7", distance, number, 55, 140, 70)
+            picture("Column-Beam_HiddenCorbel1", 201, 196, 126, 46)
+            picture("Column-Beam_HiddenCorbel2", 277, 136, 94, 398)
+        }
+    }
+}

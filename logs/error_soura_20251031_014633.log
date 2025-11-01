@@ -1,0 +1,7 @@
+ERROR:  31.10.2025 01:49:03 Could not find UI name for plugin named Beam
+ERROR:  31.10.2025 01:49:05 Could not find UI name for plugin named Joint 129
+ERROR:  31.10.2025 01:49:20 Copying a fitting without a valid father!
+ERROR:  31.10.2025 01:49:20 Copying a fitting without a valid father!
+ASSERT:  31.10.2025 01:49:20  REASON: (ExpressionString.length() == UpdatedExpressionString.length()), File: E:\prod\ts-build\Core\Model\ModelLogic\libparameterisation\par_property_equation_parser.cpp, Line: 119
+ASSERT:  31.10.2025 01:49:20  REASON: (ExpressionString.length() == UpdatedExpressionString.length()), File: E:\prod\ts-build\Core\Model\ModelLogic\libparameterisation\par_property_equation_parser.cpp, Line: 119
+ERROR:  31.10.2025 01:50:21 Could not find UI name for plugin named Joint 20

@@ -1,0 +1,14 @@
+page("TeklaStructures","")
+{
+   detail(1, "LIFTERS")
+   {
+       helpurl("Lifters.chm::/Lifters.htm")
+       tab_page("", " Parameters 1 ", 1)
+       {
+           parameter("Distance from End 1", "P1", distance, number, 1)
+           parameter("Distance from End 2", "P2", distance, number, 2)
+           parameter("Lifter Type", "P3", ComponentName, text, 3)
+           parameter("Notch Depth", "P4", distance, number, 4)
+       }
+   }
+}

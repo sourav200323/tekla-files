@@ -1,0 +1,11 @@
+ERROR:  17.10.2025 09:41:41 Sketch order number not found for sketch item 54E1CE20-0000-2190-3134-323430383436, reordering
+ERROR:  17.10.2025 09:41:41 Sketch order number not found for sketch item 54E1CE20-0000-219C-3134-323430383436, reordering
+ERROR:  17.10.2025 09:41:41 Sketch order number not found for sketch item 54E1CE20-0000-2190-3134-323430383436, reordering
+ERROR:  17.10.2025 09:41:41 Sketch order number not found for sketch item 54E1CE20-0000-219C-3134-323430383436, reordering
+ERROR:  17.10.2025 09:41:46 An item with the same key has already been added. processing AddToSelectedTask from SiteManager.SiteManager, Tekla.Structures.SiteManager, Version=2.0.0.0, Culture=neutral, PublicKeyToken=2f04dbe497b71114
+ERROR:  17.10.2025 09:41:46 An item with the same key has already been added. processing CreateTask from SiteManager.SiteManager, Tekla.Structures.SiteManager, Version=2.0.0.0, Culture=neutral, PublicKeyToken=2f04dbe497b71114
+ERROR:  17.10.2025 09:41:46 An item with the same key has already been added. processing ReloadTaskManager from SiteManager.SiteManager, Tekla.Structures.SiteManager, Version=2.0.0.0, Culture=neutral, PublicKeyToken=2f04dbe497b71114
+ERROR:  17.10.2025 09:41:46 An item with the same key has already been added. processing RemoveFromSelectedTask from SiteManager.SiteManager, Tekla.Structures.SiteManager, Version=2.0.0.0, Culture=neutral, PublicKeyToken=2f04dbe497b71114
+ERROR:  17.10.2025 09:41:46 An item with the same key has already been added. processing SelectRelatedTasks from SiteManager.SiteManager, Tekla.Structures.SiteManager, Version=2.0.0.0, Culture=neutral, PublicKeyToken=2f04dbe497b71114
+ERROR:  17.10.2025 09:41:46 An item with the same key has already been added. processing ShowTaskPane from SiteManager.SiteManager, Tekla.Structures.SiteManager, Version=2.0.0.0, Culture=neutral, PublicKeyToken=2f04dbe497b71114
+ERROR:  17.10.2025 09:41:46 An item with the same key has already been added. processing ShowTaskProperties from SiteManager.SiteManager, Tekla.Structures.SiteManager, Version=2.0.0.0, Culture=neutral, PublicKeyToken=2f04dbe497b71114

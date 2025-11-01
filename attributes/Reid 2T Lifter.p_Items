@@ -1,0 +1,24 @@
+Items_attributes.saveas_file "Reid 2T Lifter"
+Items_attributes.get_menu "standard"
+Items_attributes.name_enable 0
+Items_attributes.ThirdHandle 0
+Items_attributes.AtDepthValue 0.000000
+Items_attributes.AtDepth 0
+Items_attributes.RotationValue -0.009400
+Items_attributes.Rotation 1
+Items_attributes.OnPlaneValue 0.000000
+Items_attributes.OnPlane 0
+Items_attributes.REID_COUPLERS_TYPE 0
+Items_attributes.REIDBRACE_TYPE 4
+Items_attributes.ANCON_TYPE 29
+Items_attributes.REID_TYPE 6
+Items_attributes.TYPE 0
+Items_attributes.MATERIAL ""
+Items_attributes.PART_NO ""
+Items_attributes.ASS_NO ""
+Items_attributes.ASS_PREFIX ""
+Items_attributes.PART_PREFIX ""
+Items_attributes.FINISH ""
+Items_attributes.CLASS ""
+Items_attributes.NAME "REID-2T"
+Items_attributes.ITEM_PROFILE ""

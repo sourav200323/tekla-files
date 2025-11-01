@@ -1,0 +1,32 @@
+page("TeklaStructures","")
+{
+   macro(1, "")
+   {
+       helpurl("cc_peikko_help_ts17_0.chm::/KEY_reinforcemnet_products.htm")
+	   
+       tab_page("", " Parameters 1 ", 1)
+       { 
+	        picture("pic_peikko_group.bmp",,,400,0)
+						
+	   		attribute("", "Numbering series", label2,"%s",  none, none, "0.0", "0.0",10,1)
+			parameter("", "P6a", string, text, 180,30,150)
+			attribute("", "Prefix", label2,"%s",  none, none, "0.0", "0.0",106,30)
+			parameter("", "P4a", integer, number, 180,60,150)
+			attribute("", "Start number", label2,"%s",  none, none, "0.0", "0.0",59,60)
+	
+			picture("line", 200,10,10,90)
+			
+			attribute("", "Attributes", label2,"%s",  none, none, "0.0", "0.0",10,101)
+			attribute("", "Name", label2,"%s",  none, none, "0.0", "0.0",106,125)
+			parameter("", "P1a", string, text, 180,125,400)
+			attribute("", "Description", label2,"%s",  none, none, "0.0", "0.0",65,155)
+			parameter("", "P2a", string, text, 180,155,400)
+			attribute("", "Finish", label2,"%s",  none, none, "0.0", "0.0",102,185)
+			parameter("", "P5a", string, text, 180,185,400)	
+
+			picture("line", 200,10,10,230)
+			attribute("", "Product code", label2,"%s",  none, none, "0.0", "0.0",59,264)
+			parameter("", "P3a", string, text, 180,264,400)
+       }
+   }
+}

@@ -1,0 +1,15 @@
+page("TeklaStructures","")
+{
+   joint(1, "Panel_Column")
+   {
+       tab_page("", " Parameters 1 ", 1)
+       {
+           parameter("Notch Width1", "P1", distance, number, 1)
+           parameter("Notch Width2", "P2", distance, number, 2)
+           parameter("Notch Depth", "P3", distance, number, 3)
+           parameter("Number of Loops", "P5", integer, number, 4)
+           parameter("Distance From Top", "P7", distance, number, 5)
+           parameter("Clearance", "P8", distance, number, 6)
+       }
+   }
+}

@@ -1,0 +1,15 @@
+page("Xsteel","")
+{
+   joint(1, "Lap_joint")
+   {
+       tab_page("", " Parameters ", 1)
+       {
+           picture("IND_PC_lap_joint.bmp", 300,280)
+           parameter("", "P1", distance, number, 440,150,80)
+           parameter("", "P3", distance, number, 100,140,80)
+           parameter("", "P4", distance, number, 160,10,80)
+           parameter("", "P6", distance, number, 340,10,80)
+           parameter("", "P7", distance, number, 160,190,80)
+       }
+   }
+}

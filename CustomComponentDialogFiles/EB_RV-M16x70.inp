@@ -1,0 +1,15 @@
+page("TeklaStructures","")
+{
+   macro(1, "EB_RV-M16x70")
+   {
+       tab_page("", " Parameters 1 ", 1)
+       {
+           parameter("Product name", "P1a", string, text, 1)
+           parameter("Description", "P2a", string, text, 2)
+           parameter("Product code", "P3a", string, text, 3)
+           parameter("Finish", "P5a", string, text, 4)
+           parameter("Numbering prefix", "P6a", string, text, 5)
+           parameter("Start number", "P4a", integer, number, 6)
+       }
+   }
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TeklaStructuresModels>
+<TeklaStructuresModels>
+    <Model>
+        <Name>SOURAV23X</Name>
+        <Designer> </Designer>
+        <Description> You can add the description from the menu Properties &gt;&gt; Project</Description>
+        <Version>2022 Service Pack 10</Version>
+        <ProductVersion>2022.0</ProductVersion>
+        <Language>enu</Language>
+        <Template></Template>
+        <Environment>india</Environment>
+        <IsTemplate>FALSE</IsTemplate>
+        <XS_PROJECT></XS_PROJECT>
+        <XS_FIRM></XS_FIRM>
+        <XS_SYSTEM>C:\ProgramData\Trimble\Tekla Structures\2022.0\\environments\india\General\component_attribute_files\;C:\ProgramData\Trimble\Tekla Structures\2022.0\\environments\india\General\drawing_filters\;C:\ProgramData\Trimble\Tekla Structures\2022.0\\environments\</XS_SYSTEM>
+        <ConnectedId></ConnectedId>
+    </Model>
+</TeklaStructuresModels>

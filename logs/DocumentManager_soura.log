@@ -1,0 +1,51 @@
+Wed 29.10.2025 00:03:23	Model 'Save as' occurred - Document manager view refreshing.
+Wed 29.10.2025 00:03:23	Loaded column layout settings from file: C:\ProgramData\Trimble\Tekla Structures\2022.0\\environments\india\General\model_settings\DocumentManagerDataGridSettings.xml
+Wed 29.10.2025 00:03:23	Loaded frozen column name:  from file: C:\ProgramData\Trimble\Tekla Structures\2022.0\\environments\india\General\model_settings\DocumentManagerDataGridSettings.xml
+Wed 29.10.2025 00:03:23	Loaded the column sort order settings from file: C:\ProgramData\Trimble\Tekla Structures\2022.0\\environments\india\General\model_settings\DocumentManagerDataGridSettings.xml
+Wed 29.10.2025 00:03:23	Extensions paths to search for DocumentManagerUDAs files: C:\ProgramData\Trimble\Tekla Structures\2022.0\\environments\common\extensions
+Wed 29.10.2025 00:03:23	Seconds to find all DocumentManagerUDAs files: 0.000
+Wed 29.10.2025 00:03:23	Loading UDA settings file C:\ProgramData\Trimble\Tekla Structures\2022.0\environments\india\Steel\drawing_settings\DocumentManagerUDAs.txt
+Wed 29.10.2025 00:03:23	Loading UDA settings file C:\ProgramData\Trimble\Tekla Structures\2022.0\environments\india\Steel\drawing_settings\DocumentManagerUDAs.txt
+Wed 29.10.2025 00:03:23	Loading UDA settings file C:\ProgramData\Trimble\Tekla Structures\2022.0\environments\common\inp\DocumentManagerUDAs.txt
+Wed 29.10.2025 00:03:23	Settings file UDA 'comment' found in model.
+Wed 29.10.2025 00:03:23	Settings file UDA 'DR_APPROVAL_DATE' found in model.
+Wed 29.10.2025 00:03:23	Settings file UDA 'DR_APPROVAL_SENT' found in model.
+Wed 29.10.2025 00:03:23	Settings file UDA 'DR_APPROVED_BY' found in model.
+Wed 29.10.2025 00:03:23	Settings file UDA 'DR_ASSIGNED_BY' found in model.
+Wed 29.10.2025 00:03:23	Settings file UDA 'DR_ASSIGNED_TO' found in model.
+Wed 29.10.2025 00:03:23	Settings file UDA 'DR_CHECKED_BY' found in model.
+Wed 29.10.2025 00:03:23	Settings file UDA 'DR_CHECKED_DATE' found in model.
+Wed 29.10.2025 00:03:23	Settings file UDA 'DR_DRAWN_BY' found in model.
+Wed 29.10.2025 00:03:23	Loading file documents settings file C:\ProgramData\Trimble\Tekla Structures\2022.0\environments\india\Steel\drawing_settings\DocumentManagerFileDocumentSettings.txt
+Wed 29.10.2025 00:03:23	Loaded 27 document categories from file: C:\ProgramData\Trimble\Tekla Structures\2022.0\\environments\india\General\model_settings\DocumentManagerCategories.xml
+Wed 29.10.2025 00:03:23	Unable to create sort description name for property name: DocumentId
+Wed 29.10.2025 01:03:01	Ending session - closing current log.
+Wed 29.10.2025 01:03:01	Warning - errors were logged in this session.
+	
+Wed 29.10.2025 01:03:01	FileSystemWatcher completed 0 of 0 events in 00:59:37.8865537 seconds
+Fri 31.10.2025 00:49:48	Model 'Save as' occurred - Document manager view refreshing.
+Fri 31.10.2025 00:49:48	Loaded column layout settings from file: C:\ProgramData\Trimble\Tekla Structures\2022.0\\environments\india\General\model_settings\DocumentManagerDataGridSettings.xml
+Fri 31.10.2025 00:49:48	Loaded frozen column name:  from file: C:\ProgramData\Trimble\Tekla Structures\2022.0\\environments\india\General\model_settings\DocumentManagerDataGridSettings.xml
+Fri 31.10.2025 00:49:48	Loaded the column sort order settings from file: C:\ProgramData\Trimble\Tekla Structures\2022.0\\environments\india\General\model_settings\DocumentManagerDataGridSettings.xml
+Fri 31.10.2025 00:49:48	Reading saved window placement and UI settings from file: C:\TeklaStructuresModels\SOURAV23X\DocumentManager_soura.xml
+Fri 31.10.2025 00:49:48	Extensions paths to search for DocumentManagerUDAs files: C:\ProgramData\Trimble\Tekla Structures\2022.0\\environments\common\extensions
+Fri 31.10.2025 00:49:48	Seconds to find all DocumentManagerUDAs files: 0.000
+Fri 31.10.2025 00:49:48	Loading UDA settings file C:\ProgramData\Trimble\Tekla Structures\2022.0\environments\india\Steel\drawing_settings\DocumentManagerUDAs.txt
+Fri 31.10.2025 00:49:48	Loading UDA settings file C:\ProgramData\Trimble\Tekla Structures\2022.0\environments\india\Steel\drawing_settings\DocumentManagerUDAs.txt
+Fri 31.10.2025 00:49:48	Loading UDA settings file C:\ProgramData\Trimble\Tekla Structures\2022.0\environments\common\inp\DocumentManagerUDAs.txt
+Fri 31.10.2025 00:49:48	Settings file UDA 'comment' found in model.
+Fri 31.10.2025 00:49:48	Settings file UDA 'DR_APPROVAL_DATE' found in model.
+Fri 31.10.2025 00:49:48	Settings file UDA 'DR_APPROVAL_SENT' found in model.
+Fri 31.10.2025 00:49:48	Settings file UDA 'DR_APPROVED_BY' found in model.
+Fri 31.10.2025 00:49:48	Settings file UDA 'DR_ASSIGNED_BY' found in model.
+Fri 31.10.2025 00:49:48	Settings file UDA 'DR_ASSIGNED_TO' found in model.
+Fri 31.10.2025 00:49:48	Settings file UDA 'DR_CHECKED_BY' found in model.
+Fri 31.10.2025 00:49:48	Settings file UDA 'DR_CHECKED_DATE' found in model.
+Fri 31.10.2025 00:49:48	Settings file UDA 'DR_DRAWN_BY' found in model.
+Fri 31.10.2025 00:49:48	Loading file documents settings file C:\ProgramData\Trimble\Tekla Structures\2022.0\environments\india\Steel\drawing_settings\DocumentManagerFileDocumentSettings.txt
+Fri 31.10.2025 00:49:48	Loaded 27 document categories from file: C:\ProgramData\Trimble\Tekla Structures\2022.0\\environments\india\General\model_settings\DocumentManagerCategories.xml
+Fri 31.10.2025 00:49:48	Unable to create sort description name for property name: DocumentId
+Fri 31.10.2025 01:28:35	Ending session - closing current log.
+Fri 31.10.2025 01:28:35	Warning - errors were logged in this session.
+	
+Fri 31.10.2025 01:28:35	FileSystemWatcher completed 0 of 0 events in 00:38:47.4673149 seconds

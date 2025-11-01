@@ -1,0 +1,14 @@
+page("TeklaStructures","")
+{
+   joint(1, "L_Beam_Col")
+   {
+       tab_page("", " Parameters 1 ", 1)
+       {
+           parameter("Clearance", "P1", distance, number, 1)
+           parameter("Corbel Width", "P2", distance, number, 2)
+           parameter("Corbel Height", "P3", distance, number, 3)
+           parameter("Height 1", "P4", distance, number, 4)
+           parameter("Width 1", "P5", distance, number, 5)
+       }
+   }
+}

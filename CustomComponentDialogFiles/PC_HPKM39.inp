@@ -1,0 +1,19 @@
+page("TeklaStructures","")
+{
+   macro(1, "PC_HPKM39")
+   {
+       tab_page("", " Parameters 1 ", 1)
+       {
+           parameter("Type", "P1a", string, text, 1)
+           parameter("Casting box height B", "P2", distance, number, 2)
+           parameter("Casting box widht C", "P3", distance, number, 3)
+           parameter("Edge distance of bolt hole E", "P4", distance, number, 4)
+           parameter("Height H", "P5", distance, number, 5)
+           parameter("Base plate thickness t", "P6", distance, number, 6)
+           parameter("Bolt hole diameter", "P7", profile, text, 7)
+           parameter("Chamfer", "P8", distance, number, 8)
+           parameter("Assembly prefix", "P2a", string, text, 9)
+           parameter("Assembly start number", "P3a", integer, number, 10)
+       }
+   }
+}

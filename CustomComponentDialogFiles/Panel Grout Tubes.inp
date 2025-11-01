@@ -1,0 +1,77 @@
+page("TeklaStructures","")
+{
+   detail(1, "Panel Grout Tubes")
+    {
+        tab_page("", " Parameters", 1)
+        {
+            parameter("", "StartOffset", distance, number, 540, 1, 80)
+            parameter("", "EndOffset", distance, number, 942, 1, 80)
+            attribute("UI_NSFS", "", option, "%s", none, none, "0.0", "0.0", 225, 2, 100, "toggle_field:!Grout_NS=1;!Grout_FS=0")
+            {
+                value("NS", 1)
+                value("FS", 0)
+            }
+            attribute("", "Position", label, "%s", none, none, "0", "0", 115, 5)
+            picture("Grout_CM", 0, 0, 550, 30)
+            picture("Grout_NS", 0, 0, 66, 34)
+            picture("Grout_FS", 0, 0, 66, 34)
+            attribute("", "Centre Offset:", label, "%s", none, none, "0", "0", 370, 100)
+            parameter("", "Tube_Radius", distance, number, 43, 108, 80)
+            parameter("", "CentreOffset", distance, number, 400, 130, 60)
+            attribute("", "Creation Method", label, "%s", none, none, "0", "0", 560, 150)
+            attribute("CM", "", option, "%s", none, none, "0.0", "0.0", 560, 175, 400, "toggle_field:Exact_CC=0,1,4;Target_CC=0,2,3,4;UI_No=1,2,3,4;!CM3=0,1,2,3")
+            {
+                value("Equal distribution by number of objects", 1)
+                value("Equal distribution by target spacing", 0)
+                value("By exact spacing value with flexible first space", 0)
+                value("By exact spacing value with flexible last space", 0)
+                value("Custom Spacings", 0)
+            }
+            parameter("", "CM3", distance_list, text, 560, 205, 400)
+            parameter("", "Tube_Height", distance, number, 44, 205, 80)
+            attribute("", "Number", label, "%s", none, none, "0", "0", 560, 240)
+            parameter("", "UI_No", integer, number, 700, 240, 100)
+            parameter("", "Grout_Thickness", distance, number, 400, 260, 60)
+            attribute("", "Target CC", label, "%s", none, none, "0", "0", 560, 270)
+            parameter("", "Target_CC", distance, number, 700, 270, 100)
+            attribute("", "Exact CC", label, "%s", none, none, "0", "0", 560, 300)
+            parameter("", "Exact_CC", distance, number, 700, 300, 100)
+            attribute("", "Dowel bars", label, "%s", none, none, "0", "0", 700, 370)
+            parameter("", "Dowel_Embedd", distance, number, 44, 375, 80)
+            attribute("Dowel_Create", "", option, "%s", none, none, "0.0", "0.0", 700, 402, 150, "toggle_field:Dowel_Class=0;Dowel_grade=0;Dowel_Length=0;Dowel_Name=0;Dowel_size=0")
+            {
+                value("No", 0)
+                value("Yes", 1)
+            }
+            attribute("", "Creation", label, "%s", none, none, "0", "0", 560, 405)
+            attribute("", "Length", label, "%s", none, none, "0", "0", 560, 435)
+            parameter("", "Dowel_Length", distance, number, 700, 436, 150)
+            attribute("", "Name", label, "%s", none, none, "0", "0", 560, 467)
+            parameter("", "Dowel_Name", string, text, 700, 467, 150)
+            attribute("", "Grade", label, "%s", none, none, "0", "0", 560, 497)
+            parameter("", "Dowel_grade", rebar_grade, text, 700, 497, 150)
+            attribute("Seperated", "", option, "%s", none, none, "0.0", "0.0", 150, 520, 150, "toggle_field:Tube_Class2=0;Tube_Dia2=0;Tube_Mat2=0")
+            {
+                value("Single Tube", 1)
+                value("Seperate Elbow", 0)
+            }
+            attribute("", "Size", label, "%s", none, none, "0", "0", 560, 527)
+            parameter("", "Dowel_size", rebar_size, text, 700, 527, 150)
+            attribute("", "Tube", label, "%s", none, none, "0", "0", 150, 548)
+            attribute("", "Elbow", label, "%s", none, none, "0", "0", 370, 548)
+            attribute("", "Class", label, "%s", none, none, "0", "0", 560, 557)
+            parameter("", "Dowel_Class", string, text, 700, 557, 150)
+            parameter("", "Tube_Name", string, text, 150, 573, 150)
+            attribute("", "Name", label, "%s", none, none, "0", "0", 9, 575)
+            parameter("", "Tube_Dia", distance, number, 150, 605, 150)
+            parameter("", "Tube_Dia2", distance, number, 370, 605, 150)
+            attribute("", "Ø", label, "%s", none, none, "0", "0", 10, 606)
+            attribute("", "Material", label, "%s", none, none, "0", "0", 10, 637)
+            parameter("", "Tube_Mat", material, text, 150, 637, 150)
+            parameter("", "Tube_Mat2", material, text, 370, 637, 150)
+            attribute("", "Class", label, "%s", none, none, "0", "0", 10, 667)
+            parameter("", "Tube_Class", string, text, 150, 667, 150)
+            parameter("", "Tube_Class2", string, text, 370, 667, 150)
+        }
+    }
+}

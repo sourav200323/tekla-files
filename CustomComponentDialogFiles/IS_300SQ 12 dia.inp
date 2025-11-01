@@ -1,0 +1,9 @@
+page("TeklaStructures","")
+{
+   macro(1, "IS_300SQ 12 dia")
+   {
+       tab_page("", " Parameters 1 ", 1)
+       {
+       }
+   }
+}

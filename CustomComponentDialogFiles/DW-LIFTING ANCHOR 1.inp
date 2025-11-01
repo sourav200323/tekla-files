@@ -1,0 +1,12 @@
+page("TeklaStructures","")
+{
+   macro(1, "DW-LIFTING ANCHOR 1")
+   {
+       tab_page("", " Parameters 1 ", 1)
+       {
+           parameter("Size(D)", "EB_size", rebar_size, text, 1)
+           parameter("Width(B)", "EB_width", distance, number, 2)
+           parameter("Grade", "EB_grade", rebar_grade, text, 3)
+       }
+   }
+}

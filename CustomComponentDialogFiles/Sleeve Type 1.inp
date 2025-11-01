@@ -1,0 +1,23 @@
+page("TeklaStructures", "")
+{
+    joint(1, "Sleeve Type 1")
+    {
+        tab_page("", "Sleeve", 1)
+        {
+            picture("IND_PC_SLEEVE", 0, 0, 9, 0)
+            parameter("", "P5", profile, text, 250, 25, 150)
+            attribute("", "Create Sleeve and Cut", label, "%s", none, none, "0", "0", 40, 65)
+            parameter("", "P1", YesNo, number, 250, 65, 150)
+            attribute("", "Number of Sleeves and Spacing", label, "%s", none, none, "0", "0", 534, 240)
+            parameter("", "P6", integer, number, 536, 285, 80)
+            parameter("", "P7", distance, number, 668, 285, 80)
+            parameter("", "D1", distance, number, 344, 289, 80)
+            attribute("", "Shear Key Profile", label, "%s", none, none, "0", "0", 240, 425)
+            attribute("", "Create Shear Key", label, "%s", none, none, "0", "0", 553, 425)
+            parameter("", "P4", profile, text, 254, 455, 200)
+            parameter("", "P3", YesNo, number, 577, 455, 80)
+            attribute("", "Sleeve Profile", label, "%s", none, none, "0", "0", 40, 25)
+            parameter("", "D3", distance, number, 217, 556, 80)
+        }
+    }
+}

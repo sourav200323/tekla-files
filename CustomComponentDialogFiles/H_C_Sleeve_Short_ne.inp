@@ -1,0 +1,12 @@
+page("TeklaStructures","")
+{
+   macro(1, "H_C_Sleeve_Short_ne")
+   {
+       tab_page("", " Parameters 1 ", 1)
+       {
+           parameter("D3.P9009PA.H_C_Sleeve_Short_ne", "D3", distance, number, 1)
+           parameter("D2.HIGH_CONCRETE_SLEEVE.H_C_Sleeve_Short_ne", "D2", distance, number, 2)
+           parameter("Reference", "P1", string, text, 3)
+       }
+   }
+}

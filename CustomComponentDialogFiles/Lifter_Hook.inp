@@ -1,0 +1,45 @@
+page("TeklaStructures", "")
+{
+    joint(1, "Li_An")
+    {
+        tab_page("", "Lifter Hook", 1)
+        {
+            attribute("", "Lift Hooker Dia", label, "%s", none, none, "0", "0", 75, 25)
+            parameter("", "P1_size", rebar_stirrup, text, 275, 25, 60)
+            parameter("", "P1_grade", rebar_grade, text, 481, 25, 60)
+            parameter("", "P1_radius", rebar_radius, text, 606, 25, 60)
+            picture("IND_PC_WAL_LH2", 0, 0, 75, 75)
+            parameter("", "P2", distance, number, 305, 81, 100)
+            parameter("", "D15", distance, number, 561, 134, 100)
+            parameter("", "P5", distance, number, 217, 235, 100)
+            parameter("", "D14", distance, number, 176, 281, 100)
+        }
+        tab_page("", "Mesh", 2)
+        {
+            attribute("", "Create Mesh", label, "%s", none, none, "0", "0", 50, 35)
+            parameter("", "P6", YesNo, number, 325, 35, 160)
+            attribute("", "On Plane", label, "%s", none, none, "0", "0", 50, 70)
+            parameter("", "P7", distance, number, 325, 70, 160)
+            picture("Longitudinal reinforcement", 0, 0, 50, 95)
+            attribute("", "Size", label, "%s", none, none, "0", "0", 75, 150)
+            attribute("", "Pitching", label, "%s", none, none, "0", "0", 352, 150)
+            attribute("", "End Offset", label, "%s", none, none, "0", "0", 530, 150)
+            parameter("", "P11_size", rebar_stirrup, text, 104, 185, 60)
+            parameter("", "P11_grade", rebar_grade, text, 230, 185, 60)
+            parameter("", "P13", distance, number, 359, 185, 75)
+            parameter("", "P15", distance, number, 559, 185, 75)
+            picture("Cross Reinforcement - Copy", 0, 0, 50, 210)
+            attribute("", "Size", label, "%s", none, none, "0", "0", 75, 265)
+            attribute("", "Pitching", label, "%s", none, none, "0", "0", 352, 265)
+            attribute("", "End Offset", label, "%s", none, none, "0", "0", 530, 265)
+            parameter("", "P12_size", rebar_stirrup, text, 100, 290, 60)
+            parameter("", "P12_grade", rebar_grade, text, 230, 290, 60)
+            parameter("", "P14", distance, number, 352, 290, 75)
+            parameter("", "P16", distance, number, 552, 290, 75)
+            picture("IND_PC_WAL_LH1", 0, 0, 72, 318)
+            parameter("", "P9", distance, number, 477, 404, 60)
+            parameter("", "D1", distance, number, 461, 495, 65)
+            parameter("", "P8", distance, number, 322, 534, 60)
+        }
+    }
+}

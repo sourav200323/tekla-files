@@ -1,0 +1,28 @@
+page("TeklaStructures","")
+{
+   detail(1, "Column_Grout")
+   {
+       tab_page("", " Parameters 1 ", 1)
+       {
+           parameter("Side Grout dia", "P2", distance, number, 1)
+           parameter("Height", "P3", distance, number, 2)
+           parameter("Spacing", "P4", distance_list, text, 3)
+           parameter("Corner Edge Distance", "P5", distance, number, 4)
+           parameter("Side Edge Distance", "P6", distance, number, 5)
+           parameter("Material", "P7", material, text, 6)
+           parameter("Name", "P8", string, text, 7)
+           parameter("Prefix", "P9", string, text, 8)
+           parameter("Start Number", "P10", integer, number, 9)
+           parameter("Corner Grout Profile", "P11", profile, text, 10)
+           parameter("Side Grout Profile", "P12", profile, text, 11)
+           parameter("Number of side tubes A", "P13", integer, number, 12)
+           parameter("Side first tube dist", "P14", distance, number, 13)
+           parameter("Number of Side Tube B", "P15", integer, number, 14)
+           parameter("Spacing of Side B", "P16", distance_list, text, 15)
+           parameter("Side first tube dist B", "P17", distance, number, 16)
+           parameter("Corner Grout Tubes (yes/no)", "P18", YesNo, number, 17)
+           parameter("Side A Grout Tubes (yes/no)", "P19", YesNo, number, 18)
+           parameter("Side B Grout Tubes (yes/no)", "P20", YesNo, number, 19)
+       }
+   }
+}

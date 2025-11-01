@@ -1,0 +1,29 @@
+page("Xsteel","")
+{
+   joint(1, "PC_CO_CO_GR_02")
+   {
+      tab_page("", " Picture ", 1)
+       {
+           picture("PC_PEIK_1.bmp", 220, 300, 100, 10)
+           parameter("Anchor bolt type", "P1c", ComponentName, text, 15)
+           parameter("Anchor bolt attribute file", "P2c", string, text, 16)
+           parameter("Column shoe type", "P3c", ComponentName, text, 17)
+           parameter("Column shoe attribute file", "P4c", string, text, 18)
+           parameter("Column shoe heigth (b)", "P5", distance, number, 21)
+           parameter("Column shoe width (a)", "P6", distance, number, 20)
+           parameter("", "P7", distance, number, 380, 230, 60)
+           parameter("Column shoe bottom plate thickness", "P8", distance, number, 19)
+           parameter("", "P9", distance, number, 140, 80, 60)
+           parameter("", "P10", distance, number, 380, 105, 60)
+       }
+       tab_page("", " Attributes ", 2)
+       {  
+           parameter("Col shoe name for reports/temp", "P20c", string, text, 1)
+           parameter("Col shoe numbering prefix", "P21c", string, text, 2)
+           parameter("Col shoe start number", "P22c", integer, number, 3)
+           parameter("Anchor bolt name for reports/t", "P23c", string, text, 4)
+           parameter("Anchor bolt numbering prefix", "P24c", string, text, 5)
+           parameter("Anchor bolt start number", "P25c", integer, number, 6)           
+       }
+   }
+}

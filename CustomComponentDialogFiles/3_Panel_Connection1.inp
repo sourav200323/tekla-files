@@ -1,0 +1,29 @@
+page("TeklaStructures","")
+{
+   joint(1, "3_Panel_Connection1")
+   {
+       tab_page("", " Parameters ", 1)
+       {
+           picture("3_panel_connection1", 300,250)
+           parameter("", "P1", distance, number, 50,40,80)
+           parameter("", "P2", distance, number, 120,0,80)
+           parameter("", "P3", distance, number, 50,255,80)
+	   attribute ("P7", "", option, "%s", none, none, "0.0", "0.0", 25,150,170,"toggle_field:P8=0,2;P9=0,2;P5=1;P3=1")
+	{
+	   value ("Equaly Spaced", 1)
+	   value ("Input Spacing", 0)
+        }
+           parameter("Notch Depth", "P18", integer, number, 13)
+           parameter("Max Spacing", "P5", distance, number, 14)
+           parameter("Spacing", "P8", distance_list, text, 15)
+           parameter("Number of Connectors", "P9", integer, number, 16)
+       }
+       tab_page("", " Brackets ", 2)
+       {
+           picture("3_panel_con_brkts", 250,250,150,0)
+           parameter("", "P16", ComponentName, text, 40,30,80)
+           parameter("", "P17", ComponentName, text, 270,270,80)
+           parameter("", "P12", ComponentName, text, 470,50,80)
+       }
+   }
+}

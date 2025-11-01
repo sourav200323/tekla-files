@@ -1,0 +1,11 @@
+page("TeklaStructures","")
+{
+   macro(1, "Lifting insert double-wall")
+   {
+       tab_page("", " Parameters 1 ", 1)
+       {
+           parameter("Size", "EB_size", integer, number, 1)
+           parameter("Width", "EB_width", distance, number, 2)
+       }
+   }
+}
