@@ -403,3 +403,398 @@
 [2025-11-01T20:00:07Z] *** Open Model ***
 [2025-11-01T20:00:07Z] Compact callbacks (7 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) IdsCompactedSelectDatabaseCB(0 ms) UpdateViewIdsAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) filUpdateViewFilterMapIdsAfterCompactingCB(0 ms) dglUpdatePlaneIdAfterCompactingCB(0 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(7 ms) UpdateModelIdsAfterCompactingCB(0 ms) SketchRepository_c(0 ms) SketchNameIDCache_c(0 ms) 
 [2025-11-01T20:00:11Z] Model sharing key not found in directory: C:\TeklaStructuresModels\SOURAV23X\.
+[2025-11-02T12:35:48Z] *** Open Library ***
+[2025-11-02T12:35:48Z] Compact callbacks (0 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-02T12:35:48Z] *** Open Model ***
+[2025-11-02T12:35:48Z] Compact callbacks (5 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) IdsCompactedSelectDatabaseCB(0 ms) UpdateViewIdsAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) filUpdateViewFilterMapIdsAfterCompactingCB(0 ms) dglUpdatePlaneIdAfterCompactingCB(0 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(5 ms) UpdateModelIdsAfterCompactingCB(0 ms) SketchRepository_c(0 ms) SketchNameIDCache_c(0 ms) 
+[2025-11-02T12:35:53Z] Model sharing key not found in directory: C:\TeklaStructuresModels\SOURAV23X\.
+[2025-11-02T14:01:41Z] Save check ids callbacks (2 ms) solstoInitializeSolidCache(1 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(1 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-02T14:01:41Z] *** Save Model ***
+[2025-11-02T14:01:41Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(1 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-02T14:01:41Z] *** Save Library ***
+[2025-11-02T14:19:09Z] *** Open Library ***
+[2025-11-02T14:19:10Z] Compact callbacks (0 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-02T14:19:10Z] *** Open Model ***
+[2025-11-02T14:19:10Z] Compact callbacks (52 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(1 ms) IdsCompactedSelectDatabaseCB(0 ms) UpdateViewIdsAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) filUpdateViewFilterMapIdsAfterCompactingCB(0 ms) dglUpdatePlaneIdAfterCompactingCB(1 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(50 ms) UpdateModelIdsAfterCompactingCB(0 ms) SketchRepository_c(0 ms) SketchNameIDCache_c(0 ms) 
+[2025-11-02T14:19:22Z] Model sharing key not found in directory: C:\TeklaStructuresModels\SOURAV23X\.
+[2025-11-02T14:19:55Z] Save check ids callbacks (2 ms) solstoInitializeSolidCache(1 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(1 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-02T14:19:55Z] *** Save Model ***
+[2025-11-02T14:19:55Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-02T14:19:55Z] *** Save Library ***
+[2025-11-02T14:34:36Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(0 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-02T14:34:36Z] *** Save Model ***
+[2025-11-02T14:34:36Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(1 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-02T14:34:36Z] *** Save Library ***
+[2025-11-02T14:49:36Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(1 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(0 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-02T14:49:36Z] *** Save Model ***
+[2025-11-02T14:49:36Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-02T14:49:36Z] *** Save Library ***
+[2025-11-02T15:27:36Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(0 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(1 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-02T15:27:36Z] *** Save Model ***
+[2025-11-02T15:27:37Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(1 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-02T15:27:37Z] *** Save Library ***
+[2025-11-02T15:42:36Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(0 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-02T15:42:36Z] *** Save Model ***
+[2025-11-02T15:42:36Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-02T15:42:36Z] *** Save Library ***
+[2025-11-02T15:57:36Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(0 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(1 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-02T15:57:36Z] *** Save Model ***
+[2025-11-02T15:57:36Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(1 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-02T15:57:36Z] *** Save Library ***
+[2025-11-02T16:12:36Z] Save check ids callbacks (2 ms) solstoInitializeSolidCache(0 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(1 ms) dbv::CheckFastCacheIdsBeforeSaveCB(1 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-02T16:12:36Z] *** Save Model ***
+[2025-11-02T16:12:36Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(1 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-02T16:12:36Z] *** Save Library ***
+[2025-11-02T16:27:36Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(0 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(1 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-02T16:27:36Z] *** Save Model ***
+[2025-11-02T16:27:36Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(1 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-02T16:27:36Z] *** Save Library ***
+[2025-11-02T16:42:36Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(0 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(0 ms) dbv::CheckFastCacheIdsBeforeSaveCB(1 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-02T16:42:36Z] *** Save Model ***
+[2025-11-02T16:42:36Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-02T16:42:36Z] *** Save Library ***
+[2025-11-02T16:50:37Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(0 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(1 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-02T16:50:37Z] *** Save Model ***
+[2025-11-02T16:50:37Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-02T16:50:37Z] *** Save Library ***
+[2025-11-03T12:26:56Z] *** Open Library ***
+[2025-11-03T12:26:56Z] Compact callbacks (0 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-03T12:26:57Z] *** Open Model ***
+[2025-11-03T12:26:57Z] Compact callbacks (3 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) IdsCompactedSelectDatabaseCB(0 ms) UpdateViewIdsAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) filUpdateViewFilterMapIdsAfterCompactingCB(0 ms) dglUpdatePlaneIdAfterCompactingCB(0 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(3 ms) UpdateModelIdsAfterCompactingCB(0 ms) SketchRepository_c(0 ms) SketchNameIDCache_c(0 ms) 
+[2025-11-03T12:27:02Z] Model sharing key not found in directory: C:\TeklaStructuresModels\SOURAV23X\.
+[2025-11-03T12:48:37Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(0 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(0 ms) dbv::CheckFastCacheIdsBeforeSaveCB(1 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-03T12:48:37Z] *** Save Model ***
+[2025-11-03T12:48:37Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(1 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-03T12:48:37Z] *** Save Library ***
+[2025-11-03T13:04:17Z] *** Open Library ***
+[2025-11-03T13:04:17Z] Compact callbacks (0 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) SketchNameIDCache_c(0 ms) 
+[2025-11-03T13:04:18Z] *** Open Model ***
+[2025-11-03T13:04:18Z] Compact callbacks (1 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) IdsCompactedSelectDatabaseCB(0 ms) UpdateViewIdsAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) filUpdateViewFilterMapIdsAfterCompactingCB(0 ms) SurfaceInitializeSurfaceModelContext(0 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(1 ms) SketchNameIDCache_c(0 ms) rbrSpatialInformation_c::UpdateAfterCompacting(0 ms) ReferenceGraphIdsCompactedCallback(0 ms) SurfaceInitializeSurfaceCache(0 ms) UpdateModelIdsAfterCompactingCB(0 ms) SketchRepository_c(0 ms) 
+[2025-11-03T13:04:19Z] Model sharing key not found in directory: C:\TeklaStructuresModels\SOURAV23X\.
+[2025-11-03T13:19:19Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(0 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-03T13:19:19Z] *** Save Model ***
+[2025-11-03T13:19:19Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-03T13:19:19Z] *** Save Library ***
+[2025-11-03T13:38:23Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(0 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-03T13:38:23Z] *** Save Model ***
+[2025-11-03T13:38:23Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-03T13:38:23Z] *** Save Library ***
+[2025-11-03T16:09:46Z] *** Open Library ***
+[2025-11-03T16:09:46Z] Compact callbacks (0 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-03T16:09:46Z] *** Open Model ***
+[2025-11-03T16:09:46Z] Compact callbacks (7 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) IdsCompactedSelectDatabaseCB(0 ms) UpdateViewIdsAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) filUpdateViewFilterMapIdsAfterCompactingCB(0 ms) dglUpdatePlaneIdAfterCompactingCB(0 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(7 ms) UpdateModelIdsAfterCompactingCB(0 ms) SketchRepository_c(0 ms) SketchNameIDCache_c(0 ms) 
+[2025-11-03T16:09:50Z] Model sharing key not found in directory: C:\TeklaStructuresModels\SOURAV23X\.
+[2025-11-03T16:24:55Z] Save check ids callbacks (2 ms) solstoInitializeSolidCache(1 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(1 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-03T16:24:55Z] *** Save Model ***
+[2025-11-03T16:24:55Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-03T16:24:55Z] *** Save Library ***
+[2025-11-03T16:39:55Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(0 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-03T16:39:55Z] *** Save Model ***
+[2025-11-03T16:39:55Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-03T16:39:55Z] *** Save Library ***
+[2025-11-03T16:54:55Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(0 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(1 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-03T16:54:55Z] *** Save Model ***
+[2025-11-03T16:54:55Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-03T16:54:55Z] *** Save Library ***
+[2025-11-03T17:09:55Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(1 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(0 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-03T17:09:55Z] *** Save Model ***
+[2025-11-03T17:09:55Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-03T17:09:55Z] *** Save Library ***
+[2025-11-03T17:20:29Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(1 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(0 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-03T17:20:29Z] *** Save Model ***
+[2025-11-03T17:20:29Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-03T17:20:29Z] *** Save Library ***
+[2025-11-04T13:51:11Z] *** Open Library ***
+[2025-11-04T13:51:11Z] Compact callbacks (0 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-04T13:51:11Z] *** Open Model ***
+[2025-11-04T13:51:11Z] Compact callbacks (11 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) IdsCompactedSelectDatabaseCB(0 ms) UpdateViewIdsAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(1 ms) filUpdateViewFilterMapIdsAfterCompactingCB(0 ms) dglUpdatePlaneIdAfterCompactingCB(0 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(10 ms) UpdateModelIdsAfterCompactingCB(0 ms) SketchRepository_c(0 ms) SketchNameIDCache_c(0 ms) 
+[2025-11-04T13:51:16Z] Model sharing key not found in directory: C:\TeklaStructuresModels\SOURAV23X\.
+[2025-11-04T14:21:22Z] Save check ids callbacks (2 ms) solstoInitializeSolidCache(1 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(1 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-04T14:21:22Z] *** Save Model ***
+[2025-11-04T14:21:22Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-04T14:21:22Z] *** Save Library ***
+[2025-11-04T14:48:39Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(0 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-04T14:48:39Z] *** Save Model ***
+[2025-11-04T14:48:39Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-04T14:48:39Z] *** Save Library ***
+[2025-11-04T16:08:58Z] *** Open Library ***
+[2025-11-04T16:08:58Z] Compact callbacks (0 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-04T16:08:58Z] *** Open Model ***
+[2025-11-04T16:08:58Z] Compact callbacks (12 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(1 ms) IdsCompactedSelectDatabaseCB(0 ms) UpdateViewIdsAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) filUpdateViewFilterMapIdsAfterCompactingCB(0 ms) dglUpdatePlaneIdAfterCompactingCB(0 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(11 ms) UpdateModelIdsAfterCompactingCB(0 ms) SketchRepository_c(0 ms) SketchNameIDCache_c(0 ms) 
+[2025-11-04T16:09:04Z] Model sharing key not found in directory: C:\TeklaStructuresModels\SOURAV23X\.
+[2025-11-04T16:12:08Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(0 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(0 ms) dbv::CheckFastCacheIdsBeforeSaveCB(1 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-04T16:12:08Z] *** Save Model ***
+[2025-11-04T16:12:08Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-04T16:12:08Z] *** Save Library ***
+[2025-11-04T16:15:11Z] *** Open Library ***
+[2025-11-04T16:15:11Z] Compact callbacks (0 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) SketchNameIDCache_c(0 ms) 
+[2025-11-04T16:15:11Z] *** Open Model ***
+[2025-11-04T16:15:11Z] Compact callbacks (1 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) IdsCompactedSelectDatabaseCB(0 ms) UpdateViewIdsAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) filUpdateViewFilterMapIdsAfterCompactingCB(0 ms) SurfaceInitializeSurfaceModelContext(0 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(1 ms) SketchNameIDCache_c(0 ms) rbrSpatialInformation_c::UpdateAfterCompacting(0 ms) ReferenceGraphIdsCompactedCallback(0 ms) SurfaceInitializeSurfaceCache(0 ms) UpdateModelIdsAfterCompactingCB(0 ms) SketchRepository_c(0 ms) 
+[2025-11-04T16:15:14Z] Model sharing key not found in directory: C:\TeklaStructuresModels\SOURAV23X\.
+[2025-11-05T15:12:40Z] *** Open Library ***
+[2025-11-05T15:12:40Z] Compact callbacks (0 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-05T15:12:40Z] *** Open Model ***
+[2025-11-05T15:12:41Z] Compact callbacks (12 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) IdsCompactedSelectDatabaseCB(0 ms) UpdateViewIdsAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) filUpdateViewFilterMapIdsAfterCompactingCB(0 ms) dglUpdatePlaneIdAfterCompactingCB(0 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(12 ms) UpdateModelIdsAfterCompactingCB(0 ms) SketchRepository_c(0 ms) SketchNameIDCache_c(0 ms) 
+[2025-11-05T15:13:05Z] Model sharing key not found in directory: C:\TeklaStructuresModels\SOURAV23X\.
+[2025-11-06T14:46:56Z] *** Open Library ***
+[2025-11-06T14:46:56Z] Compact callbacks (0 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-06T14:46:56Z] *** Open Model ***
+[2025-11-06T14:46:56Z] Compact callbacks (2 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) IdsCompactedSelectDatabaseCB(0 ms) UpdateViewIdsAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) filUpdateViewFilterMapIdsAfterCompactingCB(0 ms) dglUpdatePlaneIdAfterCompactingCB(0 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(2 ms) UpdateModelIdsAfterCompactingCB(0 ms) SketchRepository_c(0 ms) SketchNameIDCache_c(0 ms) 
+[2025-11-06T14:47:00Z] Model sharing key not found in directory: C:\TeklaStructuresModels\SOURAV23X\.
+[2025-11-06T15:02:06Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(0 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(1 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-06T15:02:06Z] *** Save Model ***
+[2025-11-06T15:02:06Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-06T15:02:06Z] *** Save Library ***
+[2025-11-06T15:17:06Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(0 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(0 ms) dbv::CheckFastCacheIdsBeforeSaveCB(1 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-06T15:17:06Z] *** Save Model ***
+[2025-11-06T15:17:06Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-06T15:17:06Z] *** Save Library ***
+[2025-11-06T15:21:54Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(0 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(1 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-06T15:21:54Z] *** Save Model ***
+[2025-11-06T15:21:54Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-06T15:21:54Z] *** Save Library ***
+[2025-11-06T16:19:23Z] *** Open Library ***
+[2025-11-06T16:19:23Z] Compact callbacks (0 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-06T16:19:24Z] *** Open Model ***
+[2025-11-06T16:19:24Z] Compact callbacks (15 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(1 ms) IdsCompactedSelectDatabaseCB(0 ms) UpdateViewIdsAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(1 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) filUpdateViewFilterMapIdsAfterCompactingCB(0 ms) dglUpdatePlaneIdAfterCompactingCB(1 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(12 ms) UpdateModelIdsAfterCompactingCB(0 ms) SketchRepository_c(0 ms) SketchNameIDCache_c(0 ms) 
+[2025-11-06T16:19:34Z] Model sharing key not found in directory: C:\TeklaStructuresModels\SOURAV23X\.
+[2025-11-07T13:44:32Z] *** Open Library ***
+[2025-11-07T13:44:33Z] Compact callbacks (0 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-07T13:44:33Z] *** Open Model ***
+[2025-11-07T13:44:33Z] Compact callbacks (7 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) IdsCompactedSelectDatabaseCB(0 ms) UpdateViewIdsAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) filUpdateViewFilterMapIdsAfterCompactingCB(1 ms) dglUpdatePlaneIdAfterCompactingCB(0 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(6 ms) UpdateModelIdsAfterCompactingCB(0 ms) SketchRepository_c(0 ms) SketchNameIDCache_c(0 ms) 
+[2025-11-07T13:44:37Z] Model sharing key not found in directory: C:\TeklaStructuresModels\SOURAV23X\.
+[2025-11-07T14:27:53Z] Save check ids callbacks (3 ms) solstoInitializeSolidCache(1 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(1 ms) dbv::CheckFastCacheIdsBeforeSaveCB(1 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-07T14:27:53Z] *** Save Model ***
+[2025-11-07T14:27:53Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-07T14:27:53Z] *** Save Library ***
+[2025-11-07T14:31:13Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(0 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-07T14:31:13Z] *** Save Model ***
+[2025-11-07T14:31:13Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-07T14:31:13Z] *** Save Library ***
+[2025-11-10T11:41:19Z] *** Open Library ***
+[2025-11-10T11:41:19Z] Compact callbacks (0 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-10T11:41:19Z] *** Open Model ***
+[2025-11-10T11:41:19Z] Compact callbacks (7 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) IdsCompactedSelectDatabaseCB(0 ms) UpdateViewIdsAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) filUpdateViewFilterMapIdsAfterCompactingCB(1 ms) dglUpdatePlaneIdAfterCompactingCB(0 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(6 ms) UpdateModelIdsAfterCompactingCB(0 ms) SketchRepository_c(0 ms) SketchNameIDCache_c(0 ms) 
+[2025-11-10T11:41:25Z] Model sharing key not found in directory: C:\TeklaStructuresModels\SOURAV23X\.
+[2025-11-15T12:10:54Z] *** Open Library ***
+[2025-11-15T12:10:54Z] Compact callbacks (0 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-15T12:10:54Z] *** Open Model ***
+[2025-11-15T12:10:54Z] Compact callbacks (1 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) IdsCompactedSelectDatabaseCB(0 ms) UpdateViewIdsAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) filUpdateViewFilterMapIdsAfterCompactingCB(0 ms) SurfaceInitializeSurfaceModelContext(0 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(1 ms) ReferenceGraphIdsCompactedCallback(0 ms) rbrSpatialInformation_c::UpdateAfterCompacting(0 ms) SurfaceInitializeSurfaceCache(0 ms) UpdateModelIdsAfterCompactingCB(0 ms) SketchRepository_c(0 ms) SketchNameIDCache_c(0 ms) 
+[2025-11-15T12:10:58Z] Model sharing key not found in directory: C:\TeklaStructuresModels\SOURAV23X\.
+[2025-11-15T12:12:17Z] *** Open Library ***
+[2025-11-15T12:12:17Z] Compact callbacks (0 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) SketchNameIDCache_c(0 ms) 
+[2025-11-15T12:12:18Z] *** Open Model ***
+[2025-11-15T12:12:18Z] Compact callbacks (1 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) IdsCompactedSelectDatabaseCB(0 ms) UpdateViewIdsAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) filUpdateViewFilterMapIdsAfterCompactingCB(0 ms) SurfaceInitializeSurfaceModelContext(0 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(1 ms) rbrSpatialInformation_c::UpdateAfterCompacting(0 ms) SketchNameIDCache_c(0 ms) ReferenceGraphIdsCompactedCallback(0 ms) SurfaceInitializeSurfaceCache(0 ms) UpdateModelIdsAfterCompactingCB(0 ms) SketchRepository_c(0 ms) 
+[2025-11-15T12:12:21Z] Model sharing key not found in directory: C:\TeklaStructuresModels\SOURAV23X\.
+[2025-11-24T09:31:34Z] *** Open Library ***
+[2025-11-24T09:31:34Z] Compact callbacks (0 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-24T09:31:35Z] *** Open Model ***
+[2025-11-24T09:31:35Z] Compact callbacks (6 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) IdsCompactedSelectDatabaseCB(0 ms) UpdateViewIdsAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) filUpdateViewFilterMapIdsAfterCompactingCB(0 ms) dglUpdatePlaneIdAfterCompactingCB(0 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(6 ms) UpdateModelIdsAfterCompactingCB(0 ms) SketchRepository_c(0 ms) SketchNameIDCache_c(0 ms) 
+[2025-11-24T09:31:41Z] Model sharing key not found in directory: C:\TEKLA SOURAV MODELS\SOURAV23X\.
+[2025-11-26T09:43:18Z] *** Open Library ***
+[2025-11-26T09:43:19Z] Compact callbacks (0 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) SketchNameIDCache_c(0 ms) 
+[2025-11-26T09:43:19Z] *** Open Model ***
+[2025-11-26T09:43:19Z] Compact callbacks (2 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) IdsCompactedSelectDatabaseCB(0 ms) UpdateViewIdsAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) filUpdateViewFilterMapIdsAfterCompactingCB(0 ms) SurfaceInitializeSurfaceModelContext(0 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(1 ms) SketchNameIDCache_c(0 ms) ReferenceGraphIdsCompactedCallback(0 ms) rbrSpatialInformation_c::UpdateAfterCompacting(1 ms) SurfaceInitializeSurfaceCache(0 ms) UpdateModelIdsAfterCompactingCB(0 ms) SketchRepository_c(0 ms) 
+[2025-11-26T09:43:23Z] Model sharing key not found in directory: C:\TEKLA SOURAV MODELS\SOURAV23X\.
+[2025-11-26T09:58:23Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(1 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(0 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-26T09:58:23Z] *** Save Model ***
+[2025-11-26T09:58:23Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-26T09:58:23Z] *** Save Library ***
+[2025-11-26T10:13:23Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(1 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(0 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-26T10:13:23Z] *** Save Model ***
+[2025-11-26T10:13:23Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-26T10:13:23Z] *** Save Library ***
+[2025-11-26T10:28:23Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(0 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-26T10:28:23Z] *** Save Model ***
+[2025-11-26T10:28:23Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-26T10:28:23Z] *** Save Library ***
+[2025-11-26T10:43:23Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(0 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-26T10:43:23Z] *** Save Model ***
+[2025-11-26T10:43:23Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-26T10:43:23Z] *** Save Library ***
+[2025-11-26T10:58:23Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(1 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(0 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-26T10:58:23Z] *** Save Model ***
+[2025-11-26T10:58:23Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-26T10:58:23Z] *** Save Library ***
+[2025-11-26T11:13:23Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(0 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-26T11:13:23Z] *** Save Model ***
+[2025-11-26T11:13:23Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-26T11:13:23Z] *** Save Library ***
+[2025-11-26T11:28:23Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(0 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-26T11:28:23Z] *** Save Model ***
+[2025-11-26T11:28:23Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-26T11:28:23Z] *** Save Library ***
+[2025-11-26T11:39:05Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(0 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-26T11:39:05Z] *** Save Model ***
+[2025-11-26T11:39:05Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-26T11:39:05Z] *** Save Library ***
+[2025-11-26T11:43:23Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(0 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(1 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-26T11:43:23Z] *** Save Model ***
+[2025-11-26T11:43:23Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(1 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-26T11:43:23Z] *** Save Library ***
+[2025-11-26T11:58:23Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(1 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(0 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-26T11:58:23Z] *** Save Model ***
+[2025-11-26T11:58:23Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-26T11:58:23Z] *** Save Library ***
+[2025-11-26T12:13:23Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(0 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(0 ms) dbv::CheckFastCacheIdsBeforeSaveCB(1 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-26T12:13:23Z] *** Save Model ***
+[2025-11-26T12:13:23Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-26T12:13:23Z] *** Save Library ***
+[2025-11-26T12:15:13Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(0 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(1 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-26T12:15:13Z] *** Save Model ***
+[2025-11-26T12:15:14Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-26T12:15:14Z] *** Save Library ***
+[2025-11-26T12:28:23Z] Save check ids callbacks (2 ms) solstoInitializeSolidCache(1 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(0 ms) dbv::CheckFastCacheIdsBeforeSaveCB(1 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-26T12:28:23Z] *** Save Model ***
+[2025-11-26T12:28:23Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-26T12:28:23Z] *** Save Library ***
+[2025-11-26T13:13:23Z] Save check ids callbacks (2 ms) solstoInitializeSolidCache(0 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(1 ms) dbv::CheckFastCacheIdsBeforeSaveCB(1 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-26T13:13:23Z] *** Save Model ***
+[2025-11-26T13:13:23Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-26T13:13:23Z] *** Save Library ***
+[2025-11-26T13:28:23Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(0 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(1 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-26T13:28:23Z] *** Save Model ***
+[2025-11-26T13:28:23Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-26T13:28:23Z] *** Save Library ***
+[2025-11-26T13:43:23Z] Save check ids callbacks (2 ms) solstoInitializeSolidCache(0 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(1 ms) dbv::CheckFastCacheIdsBeforeSaveCB(1 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-26T13:43:23Z] *** Save Model ***
+[2025-11-26T13:43:23Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(1 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-26T13:43:23Z] *** Save Library ***
+[2025-11-26T13:58:23Z] Save check ids callbacks (4 ms) solstoInitializeSolidCache(1 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(2 ms) dbv::CheckFastCacheIdsBeforeSaveCB(1 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-26T13:58:23Z] *** Save Model ***
+[2025-11-26T13:58:23Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(1 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-26T13:58:23Z] *** Save Library ***
+[2025-11-26T14:13:23Z] Save check ids callbacks (2 ms) solstoInitializeSolidCache(1 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(0 ms) dbv::CheckFastCacheIdsBeforeSaveCB(1 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-26T14:13:23Z] *** Save Model ***
+[2025-11-26T14:13:23Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-26T14:13:23Z] *** Save Library ***
+[2025-11-26T14:28:23Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(0 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(0 ms) dbv::CheckFastCacheIdsBeforeSaveCB(1 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-26T14:28:23Z] *** Save Model ***
+[2025-11-26T14:28:23Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(1 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-26T14:28:23Z] *** Save Library ***
+[2025-11-26T14:43:23Z] Save check ids callbacks (2 ms) solstoInitializeSolidCache(1 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(0 ms) dbv::CheckFastCacheIdsBeforeSaveCB(1 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-26T14:43:23Z] *** Save Model ***
+[2025-11-26T14:43:23Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-26T14:43:23Z] *** Save Library ***
+[2025-11-26T14:58:23Z] Save check ids callbacks (2 ms) solstoInitializeSolidCache(0 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(1 ms) dbv::CheckFastCacheIdsBeforeSaveCB(1 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-26T14:58:23Z] *** Save Model ***
+[2025-11-26T14:58:23Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(1 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-26T14:58:23Z] *** Save Library ***
+[2025-11-26T15:13:23Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(0 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-26T15:13:23Z] *** Save Model ***
+[2025-11-26T15:13:23Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-26T15:13:23Z] *** Save Library ***
+[2025-11-26T15:28:02Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(1 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(0 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-26T15:28:02Z] *** Save Model ***
+[2025-11-26T15:28:02Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-26T15:28:02Z] *** Save Library ***
+[2025-11-27T09:20:49Z] *** Open Library ***
+[2025-11-27T09:20:49Z] Compact callbacks (0 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-27T09:20:50Z] *** Open Model ***
+[2025-11-27T09:20:50Z] Compact callbacks (8 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) IdsCompactedSelectDatabaseCB(0 ms) UpdateViewIdsAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) filUpdateViewFilterMapIdsAfterCompactingCB(2 ms) dglUpdatePlaneIdAfterCompactingCB(0 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(6 ms) UpdateModelIdsAfterCompactingCB(0 ms) SketchRepository_c(0 ms) SketchNameIDCache_c(0 ms) 
+[2025-11-27T09:20:55Z] Model sharing key not found in directory: C:\TEKLA SOURAV MODELS\SOURAV23X\.
+[2025-11-27T09:36:03Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(0 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(1 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-27T09:36:03Z] *** Save Model ***
+[2025-11-27T09:36:03Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-27T09:36:03Z] *** Save Library ***
+[2025-11-27T10:21:03Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(1 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(0 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-27T10:21:03Z] *** Save Model ***
+[2025-11-27T10:21:03Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-27T10:21:03Z] *** Save Library ***
+[2025-11-27T10:36:03Z] Save check ids callbacks (2 ms) solstoInitializeSolidCache(1 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(1 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-27T10:36:03Z] *** Save Model ***
+[2025-11-27T10:36:03Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-27T10:36:03Z] *** Save Library ***
+[2025-11-27T10:51:03Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(0 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(1 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-27T10:51:03Z] *** Save Model ***
+[2025-11-27T10:51:03Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-27T10:51:03Z] *** Save Library ***
+[2025-11-27T11:06:03Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(0 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(1 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-27T11:06:03Z] *** Save Model ***
+[2025-11-27T11:06:03Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-27T11:06:03Z] *** Save Library ***
+[2025-11-27T11:21:03Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(0 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-27T11:21:03Z] *** Save Model ***
+[2025-11-27T11:21:03Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-27T11:21:03Z] *** Save Library ***
+[2025-11-27T11:36:03Z] Save check ids callbacks (2 ms) solstoInitializeSolidCache(1 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(0 ms) dbv::CheckFastCacheIdsBeforeSaveCB(1 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-27T11:36:03Z] *** Save Model ***
+[2025-11-27T11:36:03Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(1 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-27T11:36:03Z] *** Save Library ***
+[2025-11-27T11:47:01Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(0 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(1 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-27T11:47:01Z] *** Save Model ***
+[2025-11-27T11:47:01Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-27T11:47:01Z] *** Save Library ***
+[2025-11-28T09:48:07Z] *** Open Library ***
+[2025-11-28T09:48:08Z] Compact callbacks (0 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-28T09:48:08Z] *** Open Model ***
+[2025-11-28T09:48:08Z] Compact callbacks (8 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) IdsCompactedSelectDatabaseCB(0 ms) UpdateViewIdsAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) filUpdateViewFilterMapIdsAfterCompactingCB(2 ms) dglUpdatePlaneIdAfterCompactingCB(0 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(6 ms) UpdateModelIdsAfterCompactingCB(0 ms) SketchRepository_c(0 ms) SketchNameIDCache_c(0 ms) 
+[2025-11-28T09:48:13Z] Model sharing key not found in directory: C:\TEKLA SOURAV MODELS\SOURAV23X\.
+[2025-11-28T10:03:19Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(0 ms) CheckViewIdsBeforSaveCB(1 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(0 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-28T10:03:19Z] *** Save Model ***
+[2025-11-28T10:03:19Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-28T10:03:19Z] *** Save Library ***
+[2025-11-28T10:18:19Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(0 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-28T10:18:19Z] *** Save Model ***
+[2025-11-28T10:18:19Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(1 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-28T10:18:19Z] *** Save Library ***
+[2025-11-28T10:33:19Z] Save check ids callbacks (2 ms) solstoInitializeSolidCache(1 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(0 ms) dbv::CheckFastCacheIdsBeforeSaveCB(1 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-28T10:33:19Z] *** Save Model ***
+[2025-11-28T10:33:19Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-28T10:33:19Z] *** Save Library ***
+[2025-11-28T10:48:19Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(0 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(0 ms) dbv::CheckFastCacheIdsBeforeSaveCB(1 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-28T10:48:19Z] *** Save Model ***
+[2025-11-28T10:48:19Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(1 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-28T10:48:19Z] *** Save Library ***
+[2025-11-28T11:03:19Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(0 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-28T11:03:19Z] *** Save Model ***
+[2025-11-28T11:03:19Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-28T11:03:19Z] *** Save Library ***
+[2025-11-28T11:18:19Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(0 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-28T11:18:19Z] *** Save Model ***
+[2025-11-28T11:18:19Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-28T11:18:19Z] *** Save Library ***
+[2025-11-28T11:33:19Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(0 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(1 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-28T11:33:19Z] *** Save Model ***
+[2025-11-28T11:33:19Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-28T11:33:19Z] *** Save Library ***
+[2025-11-28T11:48:19Z] Save check ids callbacks (2 ms) solstoInitializeSolidCache(1 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(1 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-28T11:48:19Z] *** Save Model ***
+[2025-11-28T11:48:19Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(1 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-28T11:48:19Z] *** Save Library ***
+[2025-11-28T12:03:19Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(0 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(1 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-28T12:03:19Z] *** Save Model ***
+[2025-11-28T12:03:19Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(1 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-28T12:03:19Z] *** Save Library ***
+[2025-11-28T12:18:19Z] Save check ids callbacks (2 ms) solstoInitializeSolidCache(1 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(1 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-28T12:18:19Z] *** Save Model ***
+[2025-11-28T12:18:19Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-28T12:18:19Z] *** Save Library ***
+[2025-11-28T12:33:19Z] Save check ids callbacks (2 ms) solstoInitializeSolidCache(1 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(0 ms) dbv::CheckFastCacheIdsBeforeSaveCB(1 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-28T12:33:19Z] *** Save Model ***
+[2025-11-28T12:33:19Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-28T12:33:19Z] *** Save Library ***
+[2025-11-28T12:48:19Z] Save check ids callbacks (2 ms) solstoInitializeSolidCache(1 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(0 ms) dbv::CheckFastCacheIdsBeforeSaveCB(1 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-28T12:48:19Z] *** Save Model ***
+[2025-11-28T12:48:19Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(1 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-28T12:48:19Z] *** Save Library ***
+[2025-11-28T13:03:19Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(0 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(1 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-28T13:03:19Z] *** Save Model ***
+[2025-11-28T13:03:19Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(1 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-28T13:03:19Z] *** Save Library ***
+[2025-11-28T13:18:19Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(1 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(0 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-28T13:18:19Z] *** Save Model ***
+[2025-11-28T13:18:19Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-28T13:18:19Z] *** Save Library ***
+[2025-11-28T13:48:08Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(0 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-28T13:48:08Z] *** Save Model ***
+[2025-11-28T13:48:08Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-28T13:48:08Z] *** Save Library ***
+[2025-11-28T13:48:12Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(0 ms) CheckViewIdsBeforSaveCB(1 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(0 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-28T13:48:12Z] *** Save Model ***
+[2025-11-28T13:48:12Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-28T13:48:12Z] *** Save Library ***
+[2025-11-28T13:48:25Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(1 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(0 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-28T13:48:25Z] *** Save Model ***
+[2025-11-28T13:48:25Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(1 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2025-11-28T13:48:25Z] *** Save Library ***
